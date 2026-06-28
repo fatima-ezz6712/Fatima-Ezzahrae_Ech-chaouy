@@ -4,6 +4,14 @@
 
 Je combine des compétences en développement web, data science et automatisation. Avec des projets concrets sur GitHub et Kaggle, j'apporte une approche analytique et orientée résultats. Je recherche un poste polyvalent où je peux contribuer à des projets techniques variés.
 
+### Projets
+UrbanFix (PFE) — React.js · Node.js · PostgreSQL · Leaflet · Meta-Llama
+Plateforme de maintenance urbaine multi-rôles avec signalement géolocalisé et IA.
+
+UniClub — React Native · Expo · Node.js - MongoDB App mobile de gestion des clubs universitaires.
+
+SysMon-cpp — C++          - Moniteur système temps réel (CPU, RAM, processus).
+
 ### Technical Skills
 Python , Java , C/C++
 SQL / PostgreSQL
